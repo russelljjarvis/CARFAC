@@ -1,4 +1,3 @@
-[14:07] Ying Xu
 IHC_li = clip(IHC_li_l[:,4000:], 0, amax(IHC_li_l[:,4000:]))
 
 
